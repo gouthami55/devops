@@ -1,3 +1,5 @@
 public static void main()
 {
+int a,b,c;
+float f,f2;
 }
